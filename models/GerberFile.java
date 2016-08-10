@@ -1,4 +1,4 @@
-package com.hackinvent.play.gerber.controllers;
+package com.hackinvent.play.gerber.models;
 
 class GerberFile{
 
