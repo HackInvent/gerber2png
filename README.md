@@ -7,7 +7,7 @@ Upgrade to comply with the specification: https://www.ucamco.com/files/downloads
 - Convert a gerber file to png
 
 ### route interfaces
-GET /gerber/2png    -> returns the png image of the gerber file
-GET /gerber/size    -> returns the size of the gerber file with in mm, format: {width:"xxxxx.xx"; height:"yyyyy.yy"}
-                    -> option: size?brute=true, returns the following format in mmm: xxxxx.xx;yyyyy.yy
+- GET /gerber/2png    -> returns the png image of the gerber file
+- GET /gerber/size    -> returns the size of the gerber file with in mm, format: {width:"xxxxx.xx"; height:"yyyyy.yy"}
+-                     -> option: size?brute=true, returns the following format in mmm: xxxxx.xx;yyyyy.yy
 
