@@ -1,0 +1,2 @@
+GET     /gerber/2png            com.hackinvent.play.gerber.controllers.getGerber2png();
+GET     /gerber/size            com.hackinvent.play.gerber.controllers.getGerberSize();
